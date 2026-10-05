@@ -1,0 +1,6 @@
+{
+    "leetcode.endpoint": "leetcode-cn",
+    "leetcode.defaultLanguage": "python3",
+    "leetcode.useEndpointTranslation": true,
+    "leetcode.nodePath": "C:\\Program Files\\nodejs\\node.exe"
+}
